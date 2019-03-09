@@ -18,7 +18,7 @@ I have employed use of Word2Vec technique to train the model. Instead of using w
 
 Let number of movies be M, and Xij be the number of users that liked both movies i and j. So, I have created a matrix that has Xij for each movie corresponding to other movie. 
 
-My aim to get embedding vectors v1,...,vi,...,vj,...,vM for all movies such that we minimize the cost 
+My aim is to get embedding vectors v1,...,vi,...,vj,...,vM for all movies such that we minimize the cost 
 
 
 ![Image](https://github.com/yuvraj16/Movie-Recommendation/blob/master/Loss%20Function.png)
