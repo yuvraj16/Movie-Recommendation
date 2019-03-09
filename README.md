@@ -28,3 +28,11 @@ Here 1[i̸=j] is a function that is 0 when i = j and 1 otherwise.
 
 
 And lastly I have optimized the cost using Optimizer in pytorch.
+
+
+### Output Snapshot
+
+First row in movie id and second row is recommended movie
+
+
+![image](https://github.com/yuvraj16/Movie-Recommendation/blob/master/Output%20Snapshot.png) 
